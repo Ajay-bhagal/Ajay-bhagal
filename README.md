@@ -13,6 +13,9 @@
 <p>📫 How to reach me: <a href="mailto:ajaybhagal352@hotmail.com">ajaybhagal352@hotmail.com</a></p>
  <p>Portfolio</p><br>
  <a href="https://ajay-bhagal.github.io/"><img style="width:50px" src="https://cdn-icons-png.flaticon.com/128/7406/7406643.png"></a>
+ <div><p>
+  <a href="https://1drv.ms/b/s!AmdSd4mjNr2FgaJLn7BJqVyRjn0LFw?e=DAO6yK">📄 My Resume<a>
+ </p></div>
 
 <hr>
 </html>
