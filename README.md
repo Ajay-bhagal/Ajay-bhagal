@@ -18,7 +18,7 @@
 - <p>📫 How to reach me: <a href="mailto:ajaybhagal352@hotmail.com">E-Mail</a></p>
 
 - <p>📄Know about my experiences
-  <a href="https://drive.google.com/file/d/1YAi9UTJAFn0mSSpoTvbYmZole6KvW5od/view?usp=sharing" target="blank">Resume<a>
+  <a href="https://drive.google.com/file/d/1-rrgT9ITaPwX7Xz7p8ATthG-HMU7p14l/view?usp=sharing" target="blank">Resume<a>
   </p>
 - <p>My Portfolio</p><br>
     <a href="https://ajay-bhagal.github.io/" target="blank"><img style="width:50px" src="https://cdn-icons-png.flaticon.com/128/7406/7406643.png"></a>
