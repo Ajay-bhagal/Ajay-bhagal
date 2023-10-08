@@ -1,5 +1,5 @@
 
-<img style="height:300px; width:500px "  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img style="height:300px; width:500px "  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleorrose&psig=AOvVaw3whxaupJgLkO6zT3U0BSEh&ust=1696851240723000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDf3tOt5oEDFQAAAAAdAAAAABAI">
 <h1 align="center">Hi 👋, I'm AJAY BHAGAL</h1>
 <h3 align="center">I'm a full stack developer and passionate about creating frontend products with great user experiences.</h3>
 
